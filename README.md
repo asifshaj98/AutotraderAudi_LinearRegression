@@ -1,6 +1,6 @@
 # AutotraderAudi_LinearRegression
 Linear Regression on Audi cars from the AutoTrader website
-## EDA
+# EDA
 ### Process
 * Removing the ULEZ column, as it is entirely filled with nulls
 * Dropping nulls in year, fuel, mileage, body, and transmission
